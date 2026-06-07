@@ -8,7 +8,7 @@ FROM air_quality_data
 GROUP BY 1
 ORDER BY 2 DESC;
 ```
-Purpose
+### Purpose
 This query calculates the average pollution level for each monitoring location across all recorded readings, ranking them from most to least polluted to identify the city's air quality hotspots.
 
 Key Findings / Conclusion
