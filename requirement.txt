@@ -1,0 +1,7 @@
+pandas,
+psycopg2,
+sqlalchemy,
+create_engine,
+ plotly,
+ nbformat,
+ aleido
