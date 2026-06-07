@@ -1,1 +1,1 @@
-# delhi_air_quality_analysis
+This project identifies which air pollutants frequently exceed safe health limits in Delhi by combining SQL-based breach detection, Python data processing, and interactive Plotly charts to visualize exceedance patterns across monitoring stations.
