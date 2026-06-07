@@ -178,5 +178,9 @@ fig.update_layout(
 fig.show()
 ```
 
+![My Chart](chart.png)
+
+According to the chart above, PM10 exceeds safe limits in 76.2% of readings...
+
 
 
